@@ -1,8 +1,14 @@
 # Theory of Computation
 
-Organized for the Recurse Center Summer 1 (May-Aug) 2021 batch, this repository aims to provide resources for studying the theory of computation, using as a basis Tom Stuart's _Understanding Computation_ (O'Reilly 2012). Below you can find the general outline of the book's chapters with additional comments, references, and external resources to expand on the topic.
+Organized for the Recurse Center Summer 1 (May-Aug) 2021 batch, this repository aims to provide resources for studying the theory of computation, using as a basis Tom Stuart's _Understanding Computation_ (O'Reilly 2012). Below you can find the general outline of the book's chapters with additional comments, references, and 
+external resources to expand on the topic.
 
-## Part 1 - Programs and Machines
+## General topics
+### Computation
+Overviews:
+* [Intro to CS and Python: What is Computing?](https://www.youtube.com/watch?v=nykOeWgQcHM)
+
+## Understanding Computation: Part 1 - Programs and Machines
 
 ### Semantics
 * Operational Semantics
@@ -26,5 +32,5 @@ Organized for the Recurse Center Summer 1 (May-Aug) 2021 batch, this repository 
 * Nondeterministic Pushdown Automata
 * Parsing
 
-## Part 2 - Computations and Computability 
+## Understanding Computation: Part 2 - Computations and Computability 
 
