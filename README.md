@@ -29,6 +29,7 @@ Overviews:
 
 ### Pushdown Automata
 * Deterministic Pushdown Automata
+  - [General introductory video](https://www.youtube.com/watch?v=4ejIAmp_Atw) from Neso Academy
 * Nondeterministic Pushdown Automata
 * Parsing
 
