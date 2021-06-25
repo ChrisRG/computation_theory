@@ -34,4 +34,7 @@ Overviews:
 * Parsing
 
 ## Understanding Computation: Part 2 - Computations and Computability 
+### Lambda calculus
+* [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4)
+* [Computerphile Intro to Lambda Calculus](https://www.youtube.com/watch?v=eis11j_iGMs)
 
