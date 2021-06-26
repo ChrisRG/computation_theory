@@ -37,4 +37,5 @@ Overviews:
 ### Lambda calculus
 * [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4)
 * [Computerphile Intro to Lambda Calculus](https://www.youtube.com/watch?v=eis11j_iGMs)
+* [David Beazley - Lambda Calculus from the Ground Up - PyCon 2019](https://www.youtube.com/watch?v=pkCLMl0e_0k)
 
